@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
+
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Faculdade Digital Descomplica.
 - 💼 Trabalhando como Monitor de Qualidade na Teleperformance atualmente, mas sempre em busca de novas oportunidades.
