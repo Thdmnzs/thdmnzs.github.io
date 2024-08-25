@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-
+- 👨 Olá, Mundo! Me chamo Thiago Dantas
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Faculdade Digital Descomplica.
 - 💼 Trabalhando como Monitor de Qualidade na Teleperformance atualmente, mas sempre em busca de novas oportunidades.
